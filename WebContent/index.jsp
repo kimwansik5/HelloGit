@@ -9,5 +9,6 @@
 <body>
 	<h1>Eclipse GutHub 연동 테스트</h1>
 	<button onclick="location.href='test'">눌러주세요</button>
+	<button onclick="location.href='menu2'">menu2</button>
 </body>
 </html>
